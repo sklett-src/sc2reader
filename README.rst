@@ -10,7 +10,7 @@ Our goal is to give anyone and everyone the power to construct their own
 tools, do their own analysis, and hack on their own Starcraft II projects
 under the open MIT license. Currently powering:
 
-* Websites: `ggtracker.com`_, `gamereplays.org`_
+* Websites: `gggreplays.com`_, `gamereplays.org`_
 * Tools: `The Core`_
 * Experiments: `Midi Conversion`_
 
@@ -294,14 +294,14 @@ and kept this project going.
   possible.
 * Thanks to `sc2replay-csharp`_ for setting us straight on game events parsing
   and assisting with our v1.5 upgrade.
-* Thanks to `ggtracker.com`_ for sponsoring further development and providing
+* Thanks to `gggreplays.com`_ for sponsoring further development and providing
   the thousands of test files used while adding s2gs and HotS support.
 * Thanks to Blizzard for supporting development of 3rd party tools and releasing
   their `s2protocol`_ reference implementation.
 
 
 .. _s2protocol: https://github.com/Blizzard/s2protocol
-.. _ggtracker.com: http://ggtracker.com
+.. _gggreplays.com: http://gggreplays.com
 .. _gamereplays.org: http://www.gamereplays.org/starcraft2/
 .. _Midi Conversion: https://github.com/obohrer/sc2midi
 .. _sc2reader.scripts: https://github.com/GraylinKim/sc2reader/tree/master/sc2reader/scripts

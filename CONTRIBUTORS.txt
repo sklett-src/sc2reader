@@ -11,5 +11,5 @@ Contributors:
     Daniele Zannotti (Durrza)
     Mike Anderson
 
-Special thanks to ggtracker, inc (ggtracker.com) for sponsoring
+Special thanks to ggtracker, inc (gggreplays.com) for sponsoring
 sc2reader's continued development.
